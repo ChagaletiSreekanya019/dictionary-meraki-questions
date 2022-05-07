@@ -1,0 +1,200 @@
+[
+   {
+      "id": "4206",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part One",
+      "slug": "html__navgurukul-ka-brochure/part1_md",
+      "sequence_num": 1,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part1.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part I - Basics\n\n[Iss document\n](https://docs.google.com/document/u/1/d/1oClVqrg7PgsPzHhHtz1mMBU6gh6zydWINCdP_ABoMl8/edit)\nka HTML use karke clone banayein aur apne HTML document ka title\n**\"Mera Pehla HTML Document\"**\nrakhein. Phir usse\n**\"index.html\"**\nke naam se save karein!\n\n\n_Yeh assignment karne ke liye, sabse pehle yeh concepts padhne aur samajhne honge:_\n\n\n  \n- Heading Tags - [en](http://www.html-5-tutorial.com/h1-h6-tags.htm), [hi](https://docs.google.com/document/d/1o-Q0k0DC1Ad95ZaXsSRt1riVBlAm7HoVcvwLiA__tLM/edit?usp=sharing)\n- List Tags - [en](http://www.html-5-tutorial.com/ul-ol-tags.htm), [hi](https://docs.google.com/document/d/1MJ6m4U1VJ9ZwbH-tWFV8B133_F8J7z1VkSsXZdma2CQ/edit?usp=sharing)\n"
+         }
+      ]
+   },
+   {
+      "id": "4207",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part Two",
+      "slug": "html__navgurukul-ka-brochure/part2_md",
+      "sequence_num": 2,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part2.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part II - Links\n\nApne document me main heading ke neeche\n[navgurukul.org\n](http://www.navgurukul.org/)\nka link daaliye. Finally, aapka webpage\n[aisa dikhna\n](https://docs.google.com/document/d/12AMjSeLPN9SE80PFkWKMYruhl-bo5p95JM158RLJXX0/edit#heading=h.1mbhds6yyb2z)\nchaiye!\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_\n\n\n\n-  Anchor Tags - [en](http://www.html-5-tutorial.com/a-tag.htm), [hi](https://docs.google.com/document/d/1eYFUg9QoZHRz6Ofo_tYUc2)\n"
+         }
+      ]
+   },
+   {
+      "id": "4208",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part Three",
+      "slug": "html__navgurukul-ka-brochure/part3_md",
+      "sequence_num": 3,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part3.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part III - Images\n\n[**Iss document ka**\n](https://docs.google.com/document/d/1ySkS9f4a8rJvJwq3UTeWBvJcl6RvsHE9cviE7tDFvJs/edit#heading=h.ky2r2dxvkfc7)\nHTML use karke clone banayein; isme\n[**in images**\n](https://drive.google.com/drive/u/1/folders/0B7u9rsSBPlgETEhQOGpPTkpnZVk)\nka use karein.\n\n\nJis folder mei images.html `file` hai, usi folder mei inn images ko daalein. Image ka naam **src property** mein aayega. Dhyaan rakhe ki image ka extension jaise - .jpg, .png ko image ke naam se na hataye.\n\n\n\nImage ke width aur height attributes change karke dekhe aur browser me refresh kar kar check karein.\n\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_\n\n\n\n- Image Tags\n\n- \n"
+         }
+      ]
+   },
+   {
+      "id": "4209",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part Four",
+      "slug": "html__navgurukul-ka-brochure/part4_md",
+      "sequence_num": 4,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part4.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part IV - Paths\n\nPath kisi bhi `file` ki location ya address ko kehte hai. Pichli assignment me use ki gayi images ko ab \"images\" naam ke folder me daalein.\n\n\n\n- Apne `code` mei, image ke src mei ab \"images/\" jode. Yaani agar pehle aapka src=\"background1.png\" tha, ab usse **src=\"images/background1.png\"** kariye. Aise hi sab images ka path update karein.\n\n\n\nAapka `code` ab bhi sahi chalna chahiye. Aapne iss assignment mei apni image ka path update kiya hai. Kyuki aapne image ko **images** naam ke folder mei daal diya hai, toh aapne image ke naam se pehle folder ka naam laga diya hai. Isse browser ko pata chalega ki aapki image uss folder ke andar hai. Hum paths ke baarein mei aage aur bhi padhenge.\n\n"
+         }
+      ]
+   },
+   {
+      "id": "4210",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part Five",
+      "slug": "html__navgurukul-ka-brochure/part5_md",
+      "sequence_num": 5,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part5.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part V - `Tab`les\n\n[Iss document ka\n](https://docs.google.com/document/d/1ttBMa2eyNo0jgprfeXguybwAAd2dcC8TrotPBKDP9r4/edit)\nHTML use karke clone banayein. Iske liye aapko HTML mei table kaise banate hai, yeh seekhna padega.\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_ \n\n\n\n- `Tab`le Tags [en](http://www.html-5-tutorial.com/table-tag.htm), [hi](https://docs.google.com/document/d/1Y3pKUJJUg6zLpu5TPHw5kH0kOIy6y7gnQcDSRrqe3fI/edit?usp=sharing)\n"
+         }
+      ]
+   },
+   {
+      "id": "4211",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Place Six",
+      "slug": "html__navgurukul-ka-brochure/part6_md",
+      "sequence_num": 6,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part6.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part VI - Styling\n\n[Iss document ka\n](https://docs.google.com/document/d/18y1-KsqxA8l2i9Ep48mndRO-nLtyDtDQjmwDBvuA6gU/edit)\nHTML use karke clone bana kar neeche instructions ke anusaar styling karein :\n\n\n- Navgurukul ke address ka color badlein.\n\n- Heading tags aur paragraph tags ka text badlein.\n\n- `Tab`le ke kisi bhi row ka size increase karein.\n\n- Kisi ek bullet point ka size increase karein.\n\n- `Tab`le ke kisi bhi row ka background color change karein.\n\n- Document ka background color change karein.\n\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_ \n\n\n\n- HTML tags ki **Styling**\n\n"
+         }
+      ]
+   },
+   {
+      "id": "4212",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Part Seven",
+      "slug": "html__navgurukul-ka-brochure/part7_md",
+      "sequence_num": 7,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part7.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part VII -  Alignment\n\n[**Iss document ka**\n](https://docs.google.com/document/d/1xJZLB7ueHE53QItMQ0_nghKWdWl0TjiUOabsz-yoEMs/edit)\nHTML use karke clone banayein. Document me jo bhi cheezein centered hain, usse HTML tags ki align property use karke center align karein.\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_ \n\n\n\n- Align property [en](http://www.w3schools.com/cssref/pr_text_text-align.asp)\n"
+         }
+      ]
+   },
+   {
+      "id": "4213",
+      "parent_exercise_id": "4202",
+      "course_id": "15",
+      "name": "Kindness - Introduction",
+      "slug": "html__kindness/kindnessa_md",
+      "sequence_num": 101,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/kindness/kindnessa.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part 0\n\nAapko\n[**iss**\n](https://abhishekgupta92.github.io/equality0/index.html)\naur\n[**isse**\n](https://abhishekgupta92.github.io/equality0/kindness.html)\nwebsite ka clone banana hain. Pehle page ka naam\n**\"index.html\"**\nrakhe. Aur dusre page ka\n**\"kindness.html\"**\n. Aapko second page me video daalni hai jiske liye niche diye code ka use karein.\n\n\n```html\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nwAYpLVyeFU\" frameborder=\"0\" allowfullscreen></iframe>\n```\n**Honesty** - Aap iss assignment ko solve karne ke liye asaani se source `code` ko copy kar sakte hain. Lekin aapki padhai aapke haath mei hain. Agar aap cheating kar kar assignments ko solve karoge to aapko seekhne mein aur pareshani hogi. Jab aap iss assignment ko khatam kar loge `tab`, aapki HTML ki kaafi knowledge ho jayegi. Uske baad hum CSS ko padhne ke liye taiyaar ho jayenge. CSS mei yeh hi `code` kaam aayega, toh isse sambhaal kar rakhein.\n\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_\n\n- iFrame - [en](http://learn.shayhowe.com/html-css/adding-media/#adding-iframes)\n"
+         }
+      ]
+   },
+   {
+      "id": "4203",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "HTML Introduction",
+      "slug": "html__Introduction_md",
+      "sequence_num": 200,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/Introduction.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "HTML Introduction\n\nWebsite banane ke liye HTML yaani **Hyper Text Markup Language** sabse basic aur important cheez hoti hai.\n\n\n\nYeh concepts aage ke liye bahut jaruri hai. Shuru mei thodi dikkat hogi, par dheere dheere aap kaafi tezi se badh paoge.\n\n\n\nIss (\n[en\n](http://www.html-5-tutorial.com/)\n,\n[hi\n](https://docs.google.com/document/d/1hzf67r68DbODA22iSWmgCIwAqO_yhtivrUKAvMIx5f4/edit)\n), iss (\n[en\n](http://www.html-5-tutorial.com/about-html.htm)\n,\n[hi\n](https://docs.google.com/document/d/1iFzyGYDhE5RyG3cn8MCr_HHJ-XhN8UH02GTU0_OjYFs/edit?usp=sharing)\n), aur iss (\n[en\n](http://www.html-5-tutorial.com/html-tag.htm)\n,\n[hi\n](https://docs.google.com/document/d/10oWfbzx7Hy9Hq1rh2Oh76NRyCvEbsIzigr6KEmf69Ec/edit)\n) links se aap aage badhne se pehle, HTML ke baare mein thoda aur padh sakte hai.\n\n\n\n_Aap samajhne ke liye kisi ki bhi madad le sakte hai. Par yeh dhyaan rakhe ki jo bhi aapne kiya hai, woh aapko poori tarah se samajh aa gaya hai. Nahi toh aap aage toh badh jaoge, par aage kaafi dikat hogi._\n\n"
+         }
+      ]
+   },
+   {
+      "id": "4204",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "Nested Tables",
+      "slug": "html__nested-tables_md",
+      "sequence_num": 300,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/nested-tables.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Nested `Tab`les\n\n[Iss\n](http://www.w3resource.com/html-css-exercise/table.php)\nexercise ko solve karo.\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_\n\n\n\n- `Tab`les in HTML [en](http://www.html-5-tutorial.com/table-tag.htm), [hi](https://docs.google.com/document/d/1Y3pKUJJUg6zLpu5TPHw5kH0kOIy6y7gnQcDSRrqe3fI/edit)\n"
+         }
+      ]
+   },
+   {
+      "id": "4205",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "HTML5 Video",
+      "slug": "html__html5-video_md",
+      "sequence_num": 400,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/html5-video.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "HTML5 Videos\n\nHTML5\n[Video\n](http://www.w3schools.com/html/html5_video.asp)\nke baarein mein padhe. Iss\n[video\n](http://navgurukul.org/files/bunny_video.mp4)\nko download karo. Download karne ke liye - video par right click karke, \"Save As\" par click karo.\n\n\nIss video ko apne kisi bhi HTML ke page mei add kare. \n\n\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_  \n\n* HTML5 [en](http://www.html-5-tutorial.com/about-html5.htm), [hi](https://docs.google.com/document/d/1vDBapN95m9xszfropRPv0Bfti6NAanaplzkXPbcN8ss/edit)  \n* Video in HTML5\n\n"
+         }
+      ]
+   }
+]

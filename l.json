@@ -1,0 +1,92 @@
+[
+   {
+      "id": "4201",
+      "parent_exercise_id": "4201",
+      "course_id": "15",
+      "name": "Brochure - Introduction",
+      "slug": "html__navgurukul-ka-brochure/part0_md",
+      "sequence_num": 0,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/navgurukul-ka-brochure/part0.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part Zero\n\nIss topic se related koi v discussion krne ke lye is link pr jaaye.\n\n\n\nEk **\u201cindex.html\u201d** `file` banayein jismein yeh `code` likhe.\n\n\n\n```html\n<!doctype html>\n<html>\n<head>\n    <title>\n        HTML Seekhen\n    </title>\n</head>\n<body>\n    Mai coding seekh rahi hu. \n</body>\n</html>\n```\nIss `file` ko browser mei khol kar dekhein. Browser mei kholne ke liye mouse se right click karein aur \u201cOpen with Google Chrome\u201d select karein.\n\n\n\n\u201cMai coding seekh rahi hu\u201d text print hoga.\n\n\n\nIss HTML document mein text change kar ke dekhein, aur browser mei **\u201cCTRL + R\u201d** se current `tab` ko reload karein. Isse aap ke kiye gaye changes browser mein dikhenge.\n\n\n\n_Agle part par jaane se pehle, in jaroori concepts ko dhyaan se padhe. Yeh concepts agar abhi samajh nahi aayenge, toh aage problem hogi:_\n\n\n\n- Head Tag - [en](http://www.html-5-tutorial.com/head-tag.htm), [hi](https://docs.google.com/document/d/1xDqx_EKODy1bo_t0urMwzlfpP_8nUwbgaiJfyZV1_50/edit#heading=h.6zg5lk71ocoo)\n- Body Tag - [en](http://www.html-5-tutorial.com/body-tag.htm), [hi](https://docs.google.com/document/u/1/d/1P5h7AJNLpo2QsUeYMKydljWomEoPGsLJdkhHYck-R5s/edit?usp=drive_web)\n"
+         }
+      ]
+   },
+   {
+      "id": "4202",
+      "parent_exercise_id": "4202",
+      "course_id": "15",
+      "name": "Kindness - Part One",
+      "slug": "html__kindness/kindness_md",
+      "sequence_num": 100,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/kindness/kindness.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Part I\n\nAapko **iss website** ka clone banana hai. Clone banane se pehle hum **`files` aur folders** ke bare mein jaanenge. Jaise hum almaari mein cheezein rakhte hai. Ussi tarah hum folders (almaari) mein `files`(cheezein) rakhte hai.\n\n\n\nFolders banane se hume apni `files` dhundne mei aasaani hoti hai. Isliye abse hum her assignment ke liye ek naya folder banayenge. App **ctrl+shift+n** press kar kar ek naya folder bana sakte hai. Iss folder ka naam apni assignment ke naam se milta julta rakhe. Jaise **kindness-part-1.** Ab iss folder mein apni `files` ko copy kar de. \n\n\n\nIss website mein aapko pehle banaye gaye 2 pages ko link karna hai. Apne page per kissi dusre page ka link daalne ke liye hum **\u2018anchor tag\u2019** ya \u2018a tag\u2019 ka use karte hai. Jaise,\n\n\n\n```html\n<a href=\"html_file_ka_path\"> Link per jo display karna hai</a>\n```\n_Assignment karne se pehle, yeh concepts Internet se padho aur samjho:_    \n\n- Linking pages\n\n- `Files` & Folders\n\n"
+         }
+      ]
+   },
+   {
+      "id": "4203",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "HTML Introduction",
+      "slug": "html__Introduction_md",
+      "sequence_num": 200,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/Introduction.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "HTML Introduction\n\nWebsite banane ke liye HTML yaani **Hyper Text Markup Language** sabse basic aur important cheez hoti hai.\n\n\n\nYeh concepts aage ke liye bahut jaruri hai. Shuru mei thodi dikkat hogi, par dheere dheere aap kaafi tezi se badh paoge.\n\n\n\nIss (\n[en\n](http://www.html-5-tutorial.com/)\n,\n[hi\n](https://docs.google.com/document/d/1hzf67r68DbODA22iSWmgCIwAqO_yhtivrUKAvMIx5f4/edit)\n), iss (\n[en\n](http://www.html-5-tutorial.com/about-html.htm)\n,\n[hi\n](https://docs.google.com/document/d/1iFzyGYDhE5RyG3cn8MCr_HHJ-XhN8UH02GTU0_OjYFs/edit?usp=sharing)\n), aur iss (\n[en\n](http://www.html-5-tutorial.com/html-tag.htm)\n,\n[hi\n](https://docs.google.com/document/d/10oWfbzx7Hy9Hq1rh2Oh76NRyCvEbsIzigr6KEmf69Ec/edit)\n) links se aap aage badhne se pehle, HTML ke baare mein thoda aur padh sakte hai.\n\n\n\n_Aap samajhne ke liye kisi ki bhi madad le sakte hai. Par yeh dhyaan rakhe ki jo bhi aapne kiya hai, woh aapko poori tarah se samajh aa gaya hai. Nahi toh aap aage toh badh jaoge, par aage kaafi dikat hogi._\n\n"
+         }
+      ]
+   },
+   {
+      "id": "4204",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "Nested Tables",
+      "slug": "html__nested-tables_md",
+      "sequence_num": 300,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/nested-tables.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "Nested `Tab`les\n\n[Iss\n](http://www.w3resource.com/html-css-exercise/table.php)\nexercise ko solve karo.\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_\n\n\n\n- `Tab`les in HTML [en](http://www.html-5-tutorial.com/table-tag.htm), [hi](https://docs.google.com/document/d/1Y3pKUJJUg6zLpu5TPHw5kH0kOIy6y7gnQcDSRrqe3fI/edit)\n"
+         }
+      ]
+   },
+   {
+      "id": "4205",
+      "parent_exercise_id": null,
+      "course_id": "15",
+      "name": "HTML5 Video",
+      "slug": "html__html5-video_md",
+      "sequence_num": 400,
+      "review_type": "manual",
+      "submission_type": null,
+      "github_link": "https://github.com/navgurukul/newton/tree/master/html/html5-video.md",
+      "solution": null,
+      "content": [
+         {
+            "type": "markdown",
+            "value": "HTML5 Videos\n\nHTML5\n[Video\n](http://www.w3schools.com/html/html5_video.asp)\nke baarein mein padhe. Iss\n[video\n](http://navgurukul.org/files/bunny_video.mp4)\nko download karo. Download karne ke liye - video par right click karke, \"Save As\" par click karo.\n\n\nIss video ko apne kisi bhi HTML ke page mei add kare. \n\n\n\n\n_Assignment karne se pehle, yeh concepts padho aur samjho:_  \n\n* HTML5 [en](http://www.html-5-tutorial.com/about-html5.htm), [hi](https://docs.google.com/document/d/1vDBapN95m9xszfropRPv0Bfti6NAanaplzkXPbcN8ss/edit)  \n* Video in HTML5\n\n"
+         }
+      ]
+   }
+]
